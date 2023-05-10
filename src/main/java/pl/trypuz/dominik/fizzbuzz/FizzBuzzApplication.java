@@ -1,7 +1,7 @@
-package pl.trypuz.dominik.fizzBuzz;
+package pl.trypuz.dominik.fizzbuzz;
 
-import pl.trypuz.dominik.fizzBuzz.services.FizzBuzzService;
-import pl.trypuz.dominik.fizzBuzz.utils.Descriptions;
+import pl.trypuz.dominik.fizzbuzz.services.FizzBuzzService;
+import pl.trypuz.dominik.fizzbuzz.utils.Descriptions;
 
 import java.util.Scanner;
 

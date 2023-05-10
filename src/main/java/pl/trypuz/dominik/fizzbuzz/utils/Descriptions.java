@@ -1,4 +1,4 @@
-package pl.trypuz.dominik.fizzBuzz.utils;
+package pl.trypuz.dominik.fizzbuzz.utils;
 
 public class Descriptions {
 

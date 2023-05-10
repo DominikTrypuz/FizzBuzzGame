@@ -1,13 +1,10 @@
-package pl.trypuz.dominik.fizzBuzz.services;
+package pl.trypuz.dominik.fizzbuzz.services;
 
 import org.junit.jupiter.api.Test;
-import org.mockito.internal.matchers.Any;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.ArgumentMatchers.any;
-import static org.mockito.ArgumentMatchers.anyInt;
 import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
 
 class FizzBuzzServiceTest {
 

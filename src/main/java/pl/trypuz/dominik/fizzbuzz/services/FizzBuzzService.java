@@ -1,4 +1,4 @@
-package pl.trypuz.dominik.fizzBuzz.services;
+package pl.trypuz.dominik.fizzbuzz.services;
 
 import java.util.Random;
 
